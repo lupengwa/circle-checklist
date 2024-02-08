@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/circle-checklist/static/css/main.047a5da2.css",
+    "main.js": "/circle-checklist/static/js/main.31f2c9f3.js",
+    "static/js/592.5c2f8486.chunk.js": "/circle-checklist/static/js/592.5c2f8486.chunk.js",
+    "index.html": "/circle-checklist/index.html",
+    "main.047a5da2.css.map": "/circle-checklist/static/css/main.047a5da2.css.map",
+    "main.31f2c9f3.js.map": "/circle-checklist/static/js/main.31f2c9f3.js.map",
+    "592.5c2f8486.chunk.js.map": "/circle-checklist/static/js/592.5c2f8486.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.047a5da2.css",
+    "static/js/main.31f2c9f3.js"
+  ]
+}
